@@ -1,0 +1,9 @@
+C:\Users\Rueben T\Desktop\3200\homework5\homework5\bin\Debug\homework5.exe.config
+C:\Users\Rueben T\Desktop\3200\homework5\homework5\obj\Debug\homework5.csprojResolveAssemblyReference.cache
+C:\Users\Rueben T\Desktop\3200\homework5\homework5\bin\Debug\homework5.exe
+C:\Users\Rueben T\Desktop\3200\homework5\homework5\bin\Debug\homework5.pdb
+C:\Users\Rueben T\Desktop\3200\homework5\homework5\obj\Debug\homework5.exe
+C:\Users\Rueben T\Desktop\3200\homework5\homework5\obj\Debug\homework5.pdb
+C:\Users\Rueben T\Documents\Personal Documents\University Work\3200 Object Oriented Development\homework5\homework5\bin\Debug\homework5.exe.config
+C:\Users\Rueben T\Documents\Personal Documents\University Work\3200 Object Oriented Development\homework5\homework5\obj\Debug\homework5.exe
+C:\Users\Rueben T\Documents\Personal Documents\University Work\3200 Object Oriented Development\homework5\homework5\obj\Debug\homework5.pdb

@@ -1,0 +1,9 @@
+C:\Users\Rueben T\Desktop\3200\homework3\homework3\bin\Debug\homework3.exe.config
+C:\Users\Rueben T\Desktop\3200\homework3\homework3\bin\Debug\homework3.exe
+C:\Users\Rueben T\Desktop\3200\homework3\homework3\bin\Debug\homework3.pdb
+C:\Users\Rueben T\Desktop\3200\homework3\homework3\obj\Debug\homework3.csprojResolveAssemblyReference.cache
+C:\Users\Rueben T\Desktop\3200\homework3\homework3\obj\Debug\homework3.exe
+C:\Users\Rueben T\Desktop\3200\homework3\homework3\obj\Debug\homework3.pdb
+C:\Users\Rueben T\Documents\Personal Documents\University Work\3200 Object Oriented Development\homework3\homework3\bin\Debug\homework3.exe.config
+C:\Users\Rueben T\Documents\Personal Documents\University Work\3200 Object Oriented Development\homework3\homework3\obj\Debug\homework3.exe
+C:\Users\Rueben T\Documents\Personal Documents\University Work\3200 Object Oriented Development\homework3\homework3\obj\Debug\homework3.pdb
